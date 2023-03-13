@@ -11,7 +11,7 @@
 * Player count: **25**\
 (15 combat roles + 10 civilians)
 * Typical duration: **10 min – 25 min**
-* [Mod dependencies]()
+* [Mod dependencies](https://raw.githubusercontent.com/foley-dev/arma3-hot-pursuit/assets/tour_modset.html) (load into Arma 3 Launcher
 
 ## Briefing
 
